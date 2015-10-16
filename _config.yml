@@ -1,6 +1,6 @@
-name: null
+name: FromTheGrave
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.957137260818854
 cta:
   domain: null
   bucket: null
@@ -20,3 +20,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.503421742003411
